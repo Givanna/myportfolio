@@ -3081,7 +3081,7 @@ input, select, textarea {
 		}
 
 		.wrapper.content-pad {
-			padding: 0;
+			padding: 4em 0 2em 0;
 		}
 
 			.wrapper.content-pad .content {
